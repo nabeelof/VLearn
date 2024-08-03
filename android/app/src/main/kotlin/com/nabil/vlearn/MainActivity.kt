@@ -1,4 +1,4 @@
-package com.nabil.vlearn_test
+package com.nabil.vlearn
 
 import io.flutter.embedding.android.FlutterActivity
 
