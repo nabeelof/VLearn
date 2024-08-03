@@ -1,6 +1,6 @@
-# vlearn_test
+# VLearn
 
-A new Flutter project.
+An Educational Courses Flutter APP Using Clean Architecture
 
 ## Getting Started
 
