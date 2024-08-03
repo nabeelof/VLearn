@@ -1,0 +1,22 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_3422_3439" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="28">
+<rect id="Rectangle 3469348" width="28" height="28" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_3422_3439)">
+<g id="OBJECTS">
+<g id="Group">
+<path id="Vector (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M7.75518 8.75518C4.03012 12.4802 4.03012 18.5198 7.75518 22.2448C11.4802 25.9699 17.5198 25.9699 21.2448 22.2448C24.9699 18.5198 24.9699 12.4802 21.2448 8.75518C17.5198 5.03012 11.4802 5.03012 7.75518 8.75518ZM6.25 23.75C1.69365 19.1937 1.69365 11.8063 6.25 7.25C10.8064 2.69365 18.1937 2.69365 22.75 7.25C27.3063 11.8063 27.3063 19.1937 22.75 23.75C18.1937 28.3063 10.8064 28.3064 6.25 23.75Z" fill="#EB5757"/>
+<g id="Group_2">
+<path id="Vector" d="M17.14 2.2998H12.52V4.9398H17.14V2.2998Z" fill="#EB5757"/>
+<path id="Vector_2" d="M17.8 0.97998H11.2V2.95998H17.8V0.97998Z" fill="#EB5757"/>
+</g>
+<g id="Group_3">
+<path id="Vector_3" d="M23.6528 6.11738L22.4072 7.05518L24.307 9.57848L25.5526 8.64068L23.6528 6.11738Z" fill="#EB5757"/>
+<path id="Vector_4" d="M24.1517 4.71113L22.9062 5.64893L25.7889 9.47707L27.0343 8.53927L24.1517 4.71113Z" fill="#EB5757"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
